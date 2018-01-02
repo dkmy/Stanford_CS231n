@@ -4,6 +4,6 @@ Assignment solutions for Stanford's computer vision course
 ## Assignment 1
 ### KNN Classifier: Completed
 ### SVM Classifier: Completed
-### Softmax Classifier
+### Softmax Classifier: Completed
 ### Two-Layer Neural Nets
 ### Image Features 
